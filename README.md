@@ -13,7 +13,4 @@ Co-workers generally take note of his fluency in sarcasm, ability to speak in pu
 
 ## &#x1f4c8; GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotsaucejake&theme=synthwave&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![HOTSAUCEJAKE](https://github-readme-stats.vercel.app/api?username=hotsaucejake&theme=jolly&count_private=true&show_icons=true&include_all_commits=true&custom_title=HOTSAUCEJAKE%20stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotsaucejake&theme=synthwave&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![HOTSAUCEJAKE](https://github-readme-stats.vercel.app/api?username=hotsaucejake&theme=jolly&count_private=true&show_icons=true&include_all_commits=true&custom_title=HOTSAUCEJAKE%20stats)](https://github.com/anuraghazra/github-readme-stats)
