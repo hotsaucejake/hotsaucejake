@@ -1,5 +1,7 @@
 # Hot Sauce Jake
 
+Co-workers generally take note of his fluency in sarcasm, ability to speak in puns, and incessant one-liners. His family and friends utilize him as their own personal geek, IT guy, and know-it-all. While he isn’t helping old ladies with their cell phones, Jakob enjoys increasing his knowledge in computer technologies and devices. 
+
 ---
 
 ## 🧰 Tools of the Trade
